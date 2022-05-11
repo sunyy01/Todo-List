@@ -1,0 +1,15 @@
+{
+    "name": "MyList",
+    "tasks": [
+        {
+            "name": "STAT200",
+            "deadline": 20211103,
+            "status": false
+        },
+        {
+            "name": "EDCP303",
+            "deadline": 20211030,
+            "status": false
+        }
+    ]
+}

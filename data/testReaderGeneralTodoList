@@ -1,0 +1,15 @@
+{
+  "tasks": [
+    {
+      "name": "CPSC210",
+      "deadline": 20211027,
+      "status": false
+    },
+    {
+      "name": "MATH200",
+      "deadline": 20211029,
+      "status": true
+    }
+  ],
+  "name": "MyList"
+}
